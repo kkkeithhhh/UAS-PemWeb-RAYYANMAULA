@@ -1,4 +1,4 @@
-ull-Stack Blockchain Web App
+Full-Stack Blockchain Web App
 
 Project ini adalah aplikasi web full-stack sederhana yang dibuat menggunakan React.js sebagai frontend dan Node.js (Express.js) sebagai backend.  
 Aplikasi ini juga terintegrasi dengan blockchain Ethereum menggunakan Ethers.js dan jaringan Sepolia Testnet.
